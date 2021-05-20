@@ -2,7 +2,8 @@
     "name": "Raycasting Attempt",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "darts": "*"
     },
     "files": [
         "main.blocks",
@@ -16,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.4.41",
+        "target": "1.4.43",
         "targetId": "arcade"
     },
     "supportedTargets": [
